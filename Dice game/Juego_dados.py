@@ -1,3 +1,4 @@
+
 import random
 
 dado1 = ["lado1dado1", "lado2dado1", "lado3dado1", "lado4dado1", "lado5dado1", "lado6dado1"]
